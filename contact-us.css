@@ -132,6 +132,16 @@ span{
     /*height: 100%;*/
     width: 100%;
     }
+    
+.desc {
+    line-height: 13px;
+    font-size: 10px;
+}
+
+.span{
+    font-size: 14px;
+    font-weight: bold;
+}
 }
 
 /*@media screen and (max-width: 1066px) {
